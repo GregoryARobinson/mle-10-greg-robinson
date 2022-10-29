@@ -1,0 +1,101 @@
+,tweets,label-b,score-b,label-db,score-db
+0,@vincent13031925 For now. Costs are decreasing rapidly.,NEU,0.9523929953575134,NEGATIVE,0.9963656663894653
+1,Love this beautiful shot,POS,0.9909942746162415,POSITIVE,0.9998824596405029
+2,@agnostoxxx @CathieDWood @ARKInvest Trust the shrub,NEU,0.9733855128288269,NEGATIVE,0.8498326539993286
+3,The art In Cyberpunk is incredible,POS,0.9824264049530029,POSITIVE,0.9998857975006104
+4,@itsALLrisky 🤣🤣,NEG,0.9627320766448975,NEGATIVE,0.9839497804641724
+5,@seinfeldguru @WholeMarsBlog Nope haha,NEU,0.8657805323600769,NEGATIVE,0.9933285713195801
+6,"@WholeMarsBlog If you don’t say anything &amp; engage Autopilot, it will soon guess based on time of day, taking you home or to work or to what’s on your calendar",NEU,0.9263535141944885,NEGATIVE,0.9917682409286499
+7,@DeltavPhotos @PortCanaveral That rocket is a hardcore veteran of many missions,NEU,0.7412322163581848,POSITIVE,0.9983181953430176
+8,Blimps rock  https://t.co/e8cu5FkNOI,POS,0.6090267896652222,NEGATIVE,0.9937851428985596
+9,"@engineers_feed Due to lower gravity, you can travel from surface of Mars to surface of Earth fairly easily with a single stage rocket. Earth to Mars is vastly harder.",NEU,0.9455981254577637,NEGATIVE,0.9840983748435974
+10,@DrPhiltill Good thread,POS,0.9056947231292725,POSITIVE,0.9970496892929077
+11,@alexellisuk Pretty much,NEU,0.8189748525619507,POSITIVE,0.996302604675293
+12,@tesla_adri @WholeMarsBlog These things are best thought of as probabilities. There are 5 forward-facing cameras. It is highly likely that at least one of them will see multiple cars ahead.,NEU,0.9333983659744263,NEGATIVE,0.9142523407936096
+13,"@WholeMarsBlog Sensors are a bitstream and cameras have several orders of magnitude more bits/sec than radar (or lidar).   Radar must meaningfully increase signal/noise of bitstream to be worth complexity of integrating it.   As vision processing gets better, it just leaves radar far behind.",NEU,0.9051194190979004,NEGATIVE,0.9978026747703552
+14,"@WholeMarsBlog When radar and vision disagree, which one do you believe? Vision has much more precision, so better to double down on vision than do sensor fusion.",NEU,0.8837267160415649,NEGATIVE,0.9946601986885071
+15,@WholeMarsBlog This is a major problem!,NEG,0.980315089225769,NEGATIVE,0.9995997548103333
+16,Just needs some legs,NEU,0.9573647379875183,NEGATIVE,0.9987119436264038
+17,The Starship launch tower that catches the giant rocket booster is basically Mechazilla,NEU,0.9655561447143555,NEGATIVE,0.993550181388855
+18,But wait how is the core of the earth lit by the sun? Stop asking questions!!,NEG,0.8051010370254517,NEGATIVE,0.9984368681907654
+19,Kong vs Godzilla has record for most meth ever consumed in a writer’s room,NEG,0.7630405426025391,POSITIVE,0.6216010451316833
+20,@itsALLrisky 💯,NEG,0.9622055292129517,NEGATIVE,0.9839497804641724
+21,… going to moon very soon,NEU,0.877999484539032,POSITIVE,0.9950076341629028
+22,@Matsu_Kusarine @jagarikin Actually happened to me in Cyberpunk haha,NEU,0.6798219084739685,NEGATIVE,0.9860665202140808
+23,@TimBirks1 @Erdayastronaut @SpaceX Pretty much,NEU,0.8584963083267212,POSITIVE,0.9893965125083923
+24,@memescryptor !,POS,0.5795773863792419,POSITIVE,0.9468770027160645
+25,Where is Shrek 5!?  https://t.co/PqAZ5Mg8Es,NEU,0.9601941108703613,NEGATIVE,0.9977408647537231
+26,"@AustinTeslaClub @OwenSparks_ @WholeMarsBlog Good point.   Next major software rev will do much better with automating wipers, seat heating &amp; defrost.   Probable seat settings just based on occupant mass distribution should be possible.",POS,0.8940476775169373,NEGATIVE,0.9840652346611023
+27,@Adamklotz_ @OwenSparks_ @WholeMarsBlog Yup,NEU,0.9327384829521179,NEGATIVE,0.9497255682945251
+28,@teslaownersSV @neuralink Turns out 🐒 love video games &amp; snacks just like us!,POS,0.9861819744110107,POSITIVE,0.9946696162223816
+29,It’s all about the cufflinks  https://t.co/elccqC0Zuf,NEU,0.9572324752807617,NEGATIVE,0.9904018044471741
+30,@chicago_glenn I feel like this sometimes,NEU,0.9797588586807251,POSITIVE,0.9829172492027283
+31,@OwenSparks_ @WholeMarsBlog It will,NEU,0.9614052772521973,POSITIVE,0.9969480633735657
+32,@OwenSparks_ @WholeMarsBlog Remove,NEU,0.7799429893493652,NEGATIVE,0.9996249675750732
+33,@w00ki33 @SpaceX @SuperclusterHQ Simulation is improving rendering resolution  …,POS,0.8899651765823364,POSITIVE,0.9960028529167175
+34,@cleantechnica Congrats to NIO. That is a tough milestone.,POS,0.9890507459640503,NEGATIVE,0.554289698600769
+35,"@WholeMarsBlog Almost ready with FSD Beta V9.0. Step change improvement is massive, especially for weird corner cases &amp; bad weather. Pure vision, no radar.",NEU,0.5329096913337708,NEGATIVE,0.9983391761779785
+36,Thanks to all that helped SpaceX!,POS,0.9875401854515076,POSITIVE,0.9997740387916565
+37,Just read it. Book is accurate.,POS,0.9889892935752869,POSITIVE,0.9998230338096619
+38,@TeslaGong Yeah,NEU,0.7121556401252747,POSITIVE,0.9405807256698608
+39,@mikevanbus @TrungTPhan @neuralink Pretty much,NEU,0.9307144284248352,POSITIVE,0.7976463437080383
+40, https://t.co/XeQursZpvq,NEU,0.9159066677093506,NEGATIVE,0.9930617213249207
+41,Soon our monkey will be on twitch &amp; discord haha,POS,0.5059618949890137,NEGATIVE,0.777531087398529
+42,@thenewsoncnbc @contessabrewer Good piece!,POS,0.9562188982963562,POSITIVE,0.9995044469833374
+43,@Kyler_Knoll @neuralink Comes with wireless charging baseball cap,NEU,0.7741279006004333,NEGATIVE,0.9503060579299927
+44,@TarekWaked @TechCrunch @etherington Pretty much 🤣🤣 Great episode!,POS,0.9852230548858643,POSITIVE,0.9991528987884521
+45,A monkey is literally playing a video game telepathically using a brain chip!!,NEU,0.6408324241638184,NEGATIVE,0.9828632473945618
+46,@lexfridman @neuralink Yes,NEU,0.8659393191337585,POSITIVE,0.9900367259979248
+47,"The device is implanted flush with skull &amp; charges wirelessly, so you look &amp; feel totally normal",NEU,0.6703439950942993,NEGATIVE,0.9762802720069885
+48,"@IheartTesla Absolutely doable. Possibly as soon as Neuralink device version 2, highly likely by version 3.",POS,0.8802768588066101,POSITIVE,0.9892715215682983
+49,"Later versions will be able to shunt signals from Neuralinks in brain to Neuralinks in body motor/sensory neuron clusters, thus enabling, for example, paraplegics to walk again",NEU,0.9263620972633362,POSITIVE,0.9668129682540894
+50,@mindofkacper @neuralink Yes,NEU,0.8623093962669373,POSITIVE,0.9911525845527649
+51,First @Neuralink product will enable someone with paralysis to use a smartphone with their mind faster than someone using thumbs,NEG,0.7609977126121521,NEGATIVE,0.9954861998558044
+52,"@IheartTesla @neuralink Hopefully, later this year",POS,0.8809717893600464,POSITIVE,0.948736846446991
+53,@tobyliiiiiiiiii Sure,NEU,0.9572345018386841,POSITIVE,0.995344340801239
+54,Monkey plays Pong with his mind,NEU,0.9370954036712646,POSITIVE,0.9260284900665283
+55,@dogeofficialceo @WatchersTank @SpaceX Looking at pups soon!,NEU,0.5094821453094482,POSITIVE,0.7323384284973145
+56,"@jordanxmajel @WatchersTank @SpaceX Shock absorption is built into tower arms. Since tower is ground side, it can use a lot more mass to arrest booster downward momentum.",NEU,0.9527355432510376,NEGATIVE,0.6798876523971558
+57,@jordanxmajel @WatchersTank @SpaceX Load points just below the grid fins,NEU,0.9719712734222412,NEGATIVE,0.9970796704292297
+58,@WatchersTank @SpaceX Just one skyscraper catching another nbd haha,NEU,0.9115899801254272,POSITIVE,0.9031754732131958
+59,Thanks Tesla suppliers for providing us with critical parts!,POS,0.9904115796089172,POSITIVE,0.9992316961288452
+60,@MarkJam93765764 @IvanEscobosa A tidal wave of vaccine is being produced!,NEU,0.9082379341125488,NEGATIVE,0.8981128931045532
+61,"@jgrano305 Probably J&amp;J, but BioNtech &amp; Moderna are good too. Some debate imo as to whether a second synthetic mRNA shot is really needed, but the first is a no-brainer.",POS,0.8017066121101379,POSITIVE,0.944603681564331
+62,@IvanEscobosa Latter,NEU,0.9780844449996948,NEGATIVE,0.9267996549606323
+63,"To be clear, I do support vaccines in general &amp; covid vaccines specifically. The science is unequivocal.   In very rare cases, there is an allergic reaction, but this is easily addressed with an EpiPen.",NEU,0.8754067420959473,NEGATIVE,0.9591715931892395
+64,@DavidWillisSLS @_Jevis_ @PPathole Needs legs for moon &amp; Mars,NEU,0.9730634689331055,NEGATIVE,0.9956945180892944
+65,@SciGuySpace Global payload to orbit is the key metric,NEU,0.9624126553535461,POSITIVE,0.9630072712898254
+66,@Julius_Burton @Erdayastronaut @DJSnM @NASASpaceflight @ChrisG_NSF @thejackbeyer @FelixSchlang Nice,POS,0.7905531525611877,NEGATIVE,0.926304817199707
+67,"@_Jevis_ @PPathole Ideal scenario imo is catching Starship in horizontal “glide” with no landing burn, although that is quite a challenge for the tower! Next best is catching with tower, with emergency pad landing mode on skirt (no legs).",NEU,0.9228430986404419,POSITIVE,0.9692283272743225
+68,"@PPathole Starship booster, largest flying object ever designed, will be caught out of sky by launch tower. Big step forward, as reflight can be done in under an hour.",NEU,0.9050138592720032,POSITIVE,0.9859389066696167
+69,"@WholeMarsBlog Well-written and fair, much like his articles on space",POS,0.9424033164978027,POSITIVE,0.9997627139091492
+70,@louisssdev @flcnhvy Coming soon. Crazy number of launches this year!,POS,0.9405857920646667,POSITIVE,0.9982032775878906
+71,@flcnhvy They will be recovered from the water &amp; reused,NEU,0.9104921221733093,NEGATIVE,0.9948424696922302
+72,“Tanks for the memery!” – Panzer of the Lake,NEU,0.9803815484046936,NEGATIVE,0.9875005483627319
+73,@CathieDWood @wintonARK @ARKInvest What do you think of the unusually high ratio of S&amp;P market cap to GDP?,NEU,0.9454333782196045,NEGATIVE,0.9403651356697083
+74,"@ID_AA_Carmack Some kind of ELO level, updated once or twice a year based on what someone actually got done, might be most effective. Important that it go both up *and* down.",NEU,0.7208717465400696,NEGATIVE,0.5397657155990601
+75,@Thomas38697956 New &amp; improved version!,POS,0.9761384725570679,POSITIVE,0.9978938698768616
+76,@Teslarati @ResidentSponge Special mention of Tesla China,NEU,0.8484972715377808,POSITIVE,0.9549607038497925
+77,@shbzz Obv,NEU,0.9745896458625793,NEGATIVE,0.9856399297714233
+78,@Teslarati @ResidentSponge Great work by Tesla team!,POS,0.981088399887085,POSITIVE,0.9990309476852417
+79,@EvaFoxU Nice,POS,0.9509232044219971,POSITIVE,0.9986646175384521
+80,"The Earth is not flat, it’s a hollow globe &amp; Donkey King lives there!",NEU,0.9548094272613525,NEGATIVE,0.8099889755249023
+81,@EvaFoxU Those two really could have come in handy for the stuck ship!,NEU,0.6648338437080383,NEGATIVE,0.9986506104469299
+82,@EvaFoxU Last Kingdom vs Vikings,NEU,0.9772308468818665,NEGATIVE,0.7619271278381348
+83,"@spacex360 Ascent phase, transition to horizontal &amp; control during free fall were good.   A (relatively) small CH4 leak led to fire on engine 2 &amp; fried part of avionics, causing hard start attempting landing burn in CH4 turbopump.   This is getting fixed 6 ways to Sunday.",NEU,0.8111085295677185,NEGATIVE,0.9876651763916016
+84,Godzilla vs Kong is so amaze much wow! Most insane movie I’ve ever seen! Love letter to conspiracy theorists! And yet heartwarming in the end.,POS,0.9927785992622375,POSITIVE,0.9997739195823669
+85,@TerminalCount The Starships feast in Valhalla!,NEU,0.9673355221748352,POSITIVE,0.9990227222442627
+86,@TerminalCount One of the greatest things I’ve ever seen,POS,0.9925035238265991,POSITIVE,0.9997355341911316
+87,@floko12022021 @HamblinZeke @katlinegrey Ich habe ein Semester Deutsch an der Universität studiert usw,NEU,0.9792494177818298,NEGATIVE,0.9928374886512756
+88,@HamblinZeke @katlinegrey Haha Falcon? Nein!,NEU,0.8873388767242432,NEGATIVE,0.9968679547309875
+89,"@tobyliiiiiiiiii @katlinegrey I recommend propulsive landing, as that is extensible to planets, moons &amp; asteroids. Wings &amp; runways are limited to Earth.",NEU,0.6087574362754822,POSITIVE,0.9927840232849121
+90,"@PPathole @katlinegrey For practical purposes, there is no limit. It will just get increasingly difficult to service.",NEU,0.8221346139907837,NEGATIVE,0.9995256662368774
+91,"@katlinegrey This a good path, but I recommend aiming for full reusability",POS,0.9090052843093872,POSITIVE,0.9894473552703857
+92,Urgent need to build more housing in greater Austin area!,NEU,0.9443233013153076,POSITIVE,0.9878185987472534
+93,Austin++,NEU,0.972324013710022,POSITIVE,0.9987744688987732
+94,No it doesn’t hurt at all 🩸  https://t.co/NnL6o1si0V,POS,0.6009989976882935,POSITIVE,0.9457864761352539
+95,@allrocketsboi True,NEU,0.9021677374839783,POSITIVE,0.9979986548423767
+96,@GerberKawasaki I fried a lot of neurons on that problem!,NEG,0.9605842232704163,NEGATIVE,0.9920915365219116
+97,Me in my sick new car (left him the money)  https://t.co/EGaY1FVfHm,NEU,0.7682680487632751,NEGATIVE,0.998769223690033
+98,"@TrungTPhan Had no money to invest in Zip2, but my founder equity yielded ~$15M after tax. Of that, I rolled ~$10M into PayPal, which yielded ~$180M, then …   Basic principle is that I would not ask investors to risk money on my company if I would not also do so.",NEU,0.913114070892334,NEGATIVE,0.9957596659660339
+99,@Gfilche Major new Supercharger station coming to Santa Monica soon! Hoping to have 50’s diner &amp; 100 best movie clips playing too. Thanks Santa Monica city!,POS,0.9880056977272034,POSITIVE,0.9988223910331726
